@@ -1,0 +1,51 @@
+html, body {
+    overflow: hidden;
+}
+
+header {
+    background-color: #e7e7e770;
+}
+.flex {
+    display: flex;
+}
+
+.items-center {
+    align-items: center;
+}
+
+.add-btn {
+    background-color: #fce6a6ef !important;
+    border: none !important;
+    color: black !important;
+    font-size: var(--lwc-fontSize5, 16px);
+}
+
+.add-btn:hover {
+    outline: none;
+}
+
+.close-btn {
+    background-color: transparent !important;
+}
+
+.form-modal {
+    background-color: rgba(0, 0, 0, 0.648);
+}
+
+.table-header {
+    text-transform: capitalize;
+    letter-spacing: 0;
+}
+
+.text-capitalize {
+    text-transform: capitalize;
+}
+
+.delete-header {
+    background-color: rgb(185, 39, 39) !important;
+    color: #fff !important;
+}
+
+.delete-msg {
+    font-size: 16px;
+}
