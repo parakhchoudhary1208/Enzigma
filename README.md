@@ -27,13 +27,14 @@ To get started with the template:
    ```bash
    git clone https://github.com/parakhchoudhary1208/enzigma.git
 
-Install Dependencies
+2. Install Dependencies
 
+   ```bash
    npm install
 
-Run Developement Server
+3. Run Developement Server
+    ```bash
+    npm run dev
 
-npm run dev
 
-
-NOTE: You can modify the ESLint rules by editing the .eslintrc file in the root directory. This helps maintain consistent code formatting and catching potential issues early.
+- **Note**:: You can modify the ESLint rules by editing the .eslintrc file in the root directory. This helps maintain consistent code formatting and catching potential issues early.
