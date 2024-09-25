@@ -37,4 +37,4 @@ To get started with the template:
     npm run dev
 
 
-- **Note**:: You can modify the ESLint rules by editing the .eslintrc file in the root directory. This helps maintain consistent code formatting and catching potential issues early.
+- **Note**: You can modify the ESLint rules by editing the .eslintrc file in the root directory. This helps maintain consistent code formatting and catching potential issues early.
